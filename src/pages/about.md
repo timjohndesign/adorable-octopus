@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+img_path: /images/11.jpg
 menus:
   main:
     title: About
